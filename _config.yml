@@ -24,9 +24,9 @@ github_username: username
 minimal_mistakes_skin: default
 search: true
 
-url: "https://clenatraore.github.io"
+url: "https://clena-traore.github.io"
 baseurl: ""
-repository: clenatraore.github.io
+repository: clena-traore.github.io
 
 # Build settings
 markdown: kramdown
