@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "News"
+    url: /news/
+  - title: "Research Projets"
+    url: /researchprojets/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Contact"
+    url: /contact/
